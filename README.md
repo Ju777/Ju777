@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 and welcome on Julien's GitHub profile.
 
 <!--
 **Ju777/Ju777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
