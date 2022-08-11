@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started: -->
 - 👁️‍🗨️ Here, you will find many repos listing a lot of my student's coding exercices in Ruby On Rails and Javascript.
-- 🔭 I’m currently working on how to deal with asynchronous tasks with Javascript.
 - 🌱 I’m currently learning Ruby On Rails + Javascript / React through the coding bootcamp The Hacking Project. An intense six month training ... absolutely exciting ! 
 - 👯 I’m looking to collaborate either on an internship as a learning-junior developper, either on a junior developper job supported by a senior developper.
 - 🤔 I’m looking for help with ... nothing yet.
